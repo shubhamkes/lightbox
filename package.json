@@ -1,0 +1,27 @@
+{
+  "name": "lightbox1",
+  "version": "1.0.0",
+  "description": "lightbox is a game played between two player",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.14.0"
+  },
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shubhamkes/lightbox.git"
+  },
+  "keywords": [
+    "lightbox1"
+  ],
+  "author": "shubham.kesarwani89@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamkes/lightbox/issues"
+  },
+  "homepage": "https://github.com/shubhamkes/lightbox#readme"
+}
