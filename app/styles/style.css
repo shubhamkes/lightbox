@@ -1,0 +1,42 @@
+body {
+    padding : 0 150px;
+}
+
+.rectangle {
+    width : 50px;
+    height : 50px;
+    border : 1px solid rgba(0,0,0,.2);
+
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border : 1px solid rgba(0,0,0,.2);
+}
+
+table td {
+    width : 50px;
+    height : 50px;
+}
+
+.display-inline {
+    display : inline-flex;
+}
+
+td:hover {background-color: #f5f5f5}
+
+#lock-display{
+    padding: 40px;
+    line-height: 420px;
+}
+
+.strong {
+    font-weight: 600;
+}
+
+.opacity-6{
+    opacity: .6;
+}
